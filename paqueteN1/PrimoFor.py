@@ -9,7 +9,7 @@ x = 0
 suma = 0
 
 
-for i in range(1000):
+for i in range(10):
     #x = int(random() * 10)
     x = x + 1
     
